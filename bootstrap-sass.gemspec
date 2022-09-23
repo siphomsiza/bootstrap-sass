@@ -5,10 +5,10 @@ require 'bootstrap-sass/version'
 Gem::Specification.new do |s|
   s.name     = 'bootstrap-sass'
   s.version  = Bootstrap::VERSION
-  s.authors  = ['Thomas McDonald']
-  s.email    = 'tom@conceptcoding.co.uk'
+  s.authors  = ['Sipho Small']
+  s.email    = 'siphosmall@gmail.com'
   s.summary  = 'bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.'
-  s.homepage = 'https://github.com/twbs/bootstrap-sass'
+  s.homepage = 'https://github.com/siphomsiza/bootstrap-sass'
   s.license  = 'MIT'
 
   s.add_runtime_dependency 'sass', '>= 3.3.4'
