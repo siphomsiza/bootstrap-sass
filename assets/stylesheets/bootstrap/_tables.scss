@@ -2,7 +2,8 @@
 // Tables
 // --------------------------------------------------
 
-
+@import "variables";
+@import "mixins";
 table {
   background-color: $table-bg;
 }
